@@ -14,6 +14,6 @@ The preprint of this study is available on **[arXiv](https://arxiv.org/abs/2501.
 
 The **Hinduphobic COVID-19 X (Twitter) Dataset** is available on **[Kaggle](https://www.kaggle.com/datasets/ashutoshsingh22102/hinduphobic-covid-19-x-twitter-dataset-india)**.
 
-### HP-BERT Model Download Link
+### HP-BERT Model
 
 The **HP-BERT** model is available for download on **[Zenodo](https://zenodo.org/records/14607359)**.
