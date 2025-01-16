@@ -3,8 +3,7 @@
 This is the official repository accompanying the study *HP-BERT: A Framework for Longitudinal Study of Hinduphobia on Social Media via LLMs*. It includes the codebase, dataset, and details about the HP-BERT model.
 
 ## Authors
-- Ashutosh Singh
-- Rohitash Chandra
+- Ashutosh Singh - Rohitash Chandra
 
 ## Dataset
 The **Hinduphobic COVID-19 X (Twitter) Dataset** is publicly available on Kaggle. You can access it here:  
